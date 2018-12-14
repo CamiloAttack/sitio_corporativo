@@ -1,0 +1,54 @@
+body{
+	background: #000;
+}
+.panel-body{
+
+    background: url(images/acero2.png) no-repeat ;
+    background-size:100%;
+    background-position: center; 
+    padding-top: 130px;
+    height:400px;
+    color: #9e424a;
+ 
+
+}
+.form-group-login{
+    margin-right: -55px !important;
+    margin-left: -45px !important;
+
+}
+
+.label-login{
+	padding-right: 0px;
+	padding-top: 0px !important; 
+}
+
+
+.col-input-login{
+
+	padding-left: 0px;
+
+}
+.col-input-login input{
+
+	height: 36px;
+	-webkit-border-radius:0px;
+    -webkit-appearance: none; 
+    -webkit-focus-ring-color: none;
+    border-top:solid 1px #999; 
+    color: #9e424a;
+
+}
+
+.btn-login{
+
+	background: url("images/fondo_boton_rojo.png");
+		-webkit-border-radius:0px;
+    -webkit-appearance: none; 
+    -webkit-focus-ring-color: none;
+    width: 100%;
+    color: #fff;
+}
+
+
+
